@@ -1,0 +1,3 @@
+Smart Calculator v2.0. Be able to do what you do but faster and also calculate overpayments on loans.
+It can show some kind of red line in a separate window, this is probably a bug.
+Suitable for weak-minded people, since using this calculator it is very difficult to make a mistake in the expression.
